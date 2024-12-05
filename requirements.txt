@@ -1,0 +1,7 @@
+matplotlib==3.8.2
+pandas==2.1.4
+openpyxl==3.1.2
+plyer==2.1.0
+python-binance==1.0.19
+configparser==6.0.0
+python-telegram-bot==20.7
